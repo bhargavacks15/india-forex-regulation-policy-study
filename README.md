@@ -61,7 +61,7 @@ This is an independent academic project based on publicly available sources. It 
 
 ## Note on tools
 
-AI tools (ChatGPT and Claude) were used for drafting support, editing, source checking and formatting. The images and charts are the author's own.
+AI tools (ChatGPT and Claude) were used for drafting support, editing. 
 
 ## Licence
 
