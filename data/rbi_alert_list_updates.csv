@@ -1,0 +1,7 @@
+update_date,entities_added,cumulative_total,total_basis,source
+2022-09-07,34,34,stated,Business Standard (7 Sep 2022)
+2023-02-10,14,48,stated,Moneylife (10 Feb 2023); RBI press release 10 Feb 2023
+2023-06-07,8,56,stated,Business Standard (7 Jun 2023)
+2023-11-24,19,75,stated,Business Standard (24 Nov 2023)
+2024-10-22,13,88,derived (75 + 13),Business Today (22 Oct 2024)
+2025-11-19,7,95,stated (numbered list),Upstox (19 Nov 2025)
